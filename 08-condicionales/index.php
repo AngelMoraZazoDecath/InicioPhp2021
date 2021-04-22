@@ -3,7 +3,7 @@
     
     /*
     //CONDICIONALES
-        if(condicion){
+        if(condiciond){
             code;
         }else{
             code;
