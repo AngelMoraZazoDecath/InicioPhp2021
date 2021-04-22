@@ -3,7 +3,7 @@
     
     /*
     //CONDICIONALES
-        if(condiciond){
+        if(condicion){
             code;
         }else{
             code;
@@ -34,7 +34,7 @@
         echo '<h1>' . 'El color NO es rojo' . '</h1>';
     }
 
-    //SALTO LINEAd
+    //SALTO LINEA
     echo '<br>';
 
     $year=2019;
